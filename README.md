@@ -2,6 +2,7 @@
 
 1) Copy all files to 'C:\usr' 
 2) Launch 'install.bat' or 'silent.bat' for silent installation. 
-3) programs will be installed immediately.
-4) Telegram will be installed on first logon.
+3) Telegram will be installed on first logon of new user.
+4) Other programs will be installed immediately.
+
 
